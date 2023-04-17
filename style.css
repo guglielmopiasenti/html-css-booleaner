@@ -45,10 +45,18 @@ address > div{
 }
 table{
     padding-top: 10px;
+    border-spacing: 0;
+    padding-bottom: 25px;
+}
+tr{
+    border-style: hidden;
+    height: 100px;
+    text-align: left;
 }
 tr:nth-of-type(1){
     background-color: rgb(55, 110, 174);
+    height: 20px;
 }
 tr:nth-child(even) {
-    background-color: #33c7c7;
-  }
+    background-color: #1bc2c2;
+}
