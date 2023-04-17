@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+.pattern{
+    height: 100px;
+    width: 800px;
+    background-color: rgb(18, 130, 243);
+    background-image: url(img/pattern.png);
+    background-size: contain;
+}
+#booleaner{
+    width: 250px;
+    
+}
+address{
+    color: grey;
+    font-style: normal;
+}
+a{
+    text-decoration: none;
+}
+address > div{
+    font-size: 0.6rem;
+}
+.description{
+    font-size: 10px;
+}
