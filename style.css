@@ -1,16 +1,19 @@
 *{
     margin: 0;
 }
-
+.container{
+    width: 1080px;
+    margin: 30px auto;
+}
 .pattern{
     height: 100px;
-    width: 800px;
     background-color: rgb(18, 130, 243);
     background-image: url(img/pattern.png);
     background-size: contain;
 }
 #booleaner{
     width: 250px;
+    padding-top: 20px;
     
 }
 address{
