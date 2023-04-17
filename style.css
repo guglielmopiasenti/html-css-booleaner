@@ -16,9 +16,13 @@
     padding-top: 20px;
     
 }
+.title{
+    padding-top: 20px;
+}
 address{
     color: grey;
     font-style: normal;
+    padding-bottom: 20px;
 }
 a{
     text-decoration: none;
@@ -29,3 +33,22 @@ address > div{
 .description{
     font-size: 10px;
 }
+.upper-main > div{
+    font-size: 10px;
+    padding-bottom: 20px;
+}
+.upper-main > p {
+    padding-bottom: 20px;
+}
+.list{
+    padding: 0.6rem;
+}
+table{
+    padding-top: 10px;
+}
+tr:nth-of-type(1){
+    background-color: rgb(55, 110, 174);
+}
+tr:nth-child(even) {
+    background-color: #33c7c7;
+  }
