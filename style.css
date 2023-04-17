@@ -60,3 +60,19 @@ tr:nth-of-type(1){
 tr:nth-child(even) {
     background-color: #1bc2c2;
 }
+h3{
+   padding-top: 25px; 
+   color: grey;
+   padding-bottom: 25px;
+}
+.pic-container{
+    position: relative;
+    
+
+}
+.thumbnail{
+    position: absolute;
+    top: 8px;
+    left:16px;
+    color: white;
+}
